@@ -1,4 +1,4 @@
-// -------------------
+// -----------------------
 
 (function () {
     [...document.querySelectorAll(".control")].forEach(button => {
